@@ -21,7 +21,6 @@ Welcome to my GitHub profile!
 
 I'm a learner of new technologies and open-source software. Here you'll find my experiments, configs, and projects that reflect my journey through Linux systems, containers, and the cloud!
 
-Feel free to explore my repos or connect for collaboration!
 
 ---
 
