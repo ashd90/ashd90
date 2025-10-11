@@ -15,7 +15,7 @@ Welcome to my GitHub profile!
 - [archinstall](https://github.com/ashd90/archinstall) — Tools and scripts for streamlined Arch Linux installations.
 - [omarchy](https://github.com/ashd90/omarchy) — Projects and experiments around system automation.
 - [Hyprland](https://github.com/ashd90/Hyprland) — Customizations and contributions to the Hyprland compositor.
-- [linutil](https://github.com/ashd90/linutil) — Utility scripts and tools for Linux environments.
+  
 
 ## 🧑‍💻 About Me
 
