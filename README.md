@@ -17,9 +17,7 @@ Welcome to my GitHub profile!
 - [Hyprland](https://github.com/ashd90/Hyprland) — Customizations and contributions to the Hyprland compositor.
   
 
-## 🧑‍💻 About Me
 
-I'm a learner of new technologies and open-source software. Here you'll find my experiments, configs, and projects that reflect my journey through Linux systems, containers, and the cloud!
 
 
 ---
