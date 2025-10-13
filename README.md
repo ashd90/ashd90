@@ -9,6 +9,8 @@ Welcome to my GitHub profile!
 - ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) **Kubernetes**: Orchestrating, scaling, and automating container management.
 - ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) **AWS**: Building and managing cloud infrastructure for modern applications.
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashd90)](https://github.com/anuraghazra/github-readme-stats)   
+
 ## 📦 Featured Repositories
 
 - [dotfiles](https://github.com/ashd90/dotfiles) — My personal configuration files for Linux systems.
