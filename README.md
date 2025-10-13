@@ -9,7 +9,17 @@ Welcome to my GitHub profile!
 - ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) **Kubernetes**: Orchestrating, scaling, and automating container management.
 - ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) **AWS**: Building and managing cloud infrastructure for modern applications.
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashd90)](https://github.com/anuraghazra/github-readme-stats)   
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashd90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashd90&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashd90&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+</div>
+ 
 
 ## 📦 Featured Repositories
 
