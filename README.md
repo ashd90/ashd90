@@ -28,7 +28,7 @@ Welcome to my GitHub profile!
 - [omarchy](https://github.com/ashd90/omarchy) — Projects and experiments around system automation.
 - [Hyprland](https://github.com/ashd90/Hyprland) — Customizations and contributions to the Hyprland compositor.
   
-
+- [shell-scripts](https://github.com/ashd90/shell-scripts) - Personal Shell scripts for hyprland & other stuff
 
 
 
