@@ -21,13 +21,8 @@ Welcome to my GitHub profile!
  
 ## 📦 Featured Repositories
 
-- [dotfiles](https://github.com/ashd90/dotfiles) — My personal configuration files for Linux systems.
-- [archinstall](https://github.com/ashd90/archinstall) — Tools and scripts for streamlined Arch Linux installations.
-- [omarchy](https://github.com/ashd90/omarchy) — Projects and experiments around system automation.
-- [Hyprland](https://github.com/ashd90/Hyprland) — Customizations and contributions to the Hyprland compositor.
-  
+- [dotfiles](https://github.com/ashd90/dotfiles) — My personal configuration files for Linux systems.  
 - [shell-scripts](https://github.com/ashd90/shell-scripts) - Personal Shell scripts for hyprland & other stuff
-
 
 
 ---
