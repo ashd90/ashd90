@@ -13,10 +13,10 @@ Welcome to my GitHub profile!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashd90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashd90&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashd90&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashd90&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashd90&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </div>
  
 ## 📦 Featured Repositories
