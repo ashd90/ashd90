@@ -2,6 +2,12 @@
 
 Welcome to my GitHub profile!
 
+<div align="center">
+  <a href="https://ashd90.github.io/ashd90/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_GitHub_Pages-222?style=for-the-badge&logo=github" alt="GitHub Pages" />
+  </a>
+</div>
+
 ## 🚀 Top Skills
 
 - ![Linux](https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white) **Linux**: Passionate about open-source, customization, and efficient workflows.
