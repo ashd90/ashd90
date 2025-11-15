@@ -13,6 +13,8 @@ Welcome to my GitHub profile!
 - ![Linux](https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white) **Linux**: Passionate about open-source, customization, and efficient workflows.
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) **Docker**: Containerizing applications for reproducible and scalable deployments.
 - ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) **Kubernetes**: Orchestrating, scaling, and automating container management.
+- ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) **Terraform**: Infrastructure-as-code — provisioning and managing cloud resources with modules and state management.
+- ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white) **Ansible**: Configuration management and automation using playbooks, roles, and idempotent tasks.
 - ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) **AWS**: Building and managing cloud infrastructure for modern applications.
 
 ## 📊 GitHub Stats
