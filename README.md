@@ -16,6 +16,7 @@ Welcome to my GitHub profile!
 - ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) **Terraform**: Infrastructure-as-code — provisioning and managing cloud resources with modules and state management.
 - ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white) **Ansible**: Configuration management and automation using playbooks, roles, and idempotent tasks.
 - ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) **AWS**: Building and managing cloud infrastructure for modern applications.
+- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) **Jenkins**: Building CI/CD pipelines and automating builds, tests, and deployments.
 
 ## 📊 GitHub Stats
 
