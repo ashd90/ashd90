@@ -30,7 +30,6 @@ Welcome to my GitHub profile!
 
 - [dotfiles](https://github.com/ashd90/dotfiles) — My personal configuration files for Linux systems.
 - [postarch](https://github.com/ashd90/postarch) - Personal Shell scripts for hyprland & other stuff
-- [docker-files](https://github.com/ashd90/docker-files) - Docker image files for python,nginx etc..
 
 
 ---
