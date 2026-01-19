@@ -33,6 +33,3 @@ Welcome to my GitHub profile!
 
 ---
 
-<!--
-🌐 Contact: [GitHub](https://github.com/ashd90)
--->
