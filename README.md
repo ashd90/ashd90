@@ -31,7 +31,6 @@ Welcome to my GitHub profile!
 - [dotfiles](https://github.com/ashd90/dotfiles) — My personal configuration files for Linux systems.
 - [postarch](https://github.com/ashd90/postarch) - Personal Shell scripts for hyprland & other stuff
 
-
 ---
 
 <!--
