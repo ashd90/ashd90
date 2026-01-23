@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 Top Skills
 
-- ![Linux](https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white) - ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) - ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) - ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) - ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)  - ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)  ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 
 
 ## 📊 GitHub Stats
